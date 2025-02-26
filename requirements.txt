@@ -1,0 +1,9 @@
+numpy  # Efficient array and matrix operations
+scipy  # Advanced numerical computations
+numba  # Just-In-Time (JIT) compilation for performance boost
+cython  # C extensions for Python
+cupy  # GPU acceleration (CUDA-based NumPy alternative)
+matplotlib  # Visualization for benchmarks
+line_profiler  # Function-level performance profiling
+memory_profiler  # Memory usage analysis
+pytest  # Testing framework
